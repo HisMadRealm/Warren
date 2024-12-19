@@ -1,0 +1,361 @@
+Date,Transaction Type,Amount,Category,Balance,Description
+2023-01-01,Deposit,1645,Sales,7912,Deposit for Sales
+2023-01-02,Withdrawal,174,Loan Payments,24775,Withdrawal for Loan Payments
+2023-01-02,Deposit,4549,Donations,19973,Deposit for Donations
+2023-01-04,Withdrawal,502,Professional Services,26480,Withdrawal for Professional Services
+2023-01-06,Withdrawal,180,Memberships,19793,Withdrawal for Memberships
+2023-01-07,Withdrawal,2727,Payroll,23753,Withdrawal for Payroll
+2023-01-07,Deposit,1110,Donations,24863,Deposit for Donations
+2023-01-08,Deposit,3345,Sales,6267,Deposit for Sales
+2023-01-09,Deposit,3997,Donations,29585,Deposit for Donations
+2023-01-09,Deposit,330,Sales,25105,Deposit for Sales
+2023-01-11,Deposit,3615,Sponsorship,27137,Deposit for Sponsorship
+2023-01-11,Withdrawal,2603,Professional Services,26982,Withdrawal for Professional Services
+2023-01-11,Withdrawal,1051,Maintenance,26049,Withdrawal for Maintenance
+2023-01-11,Withdrawal,2192,Marketing,24949,Withdrawal for Marketing
+2023-01-12,Withdrawal,1812,Rent,25325,Withdrawal for Rent
+2023-01-13,Withdrawal,262,Taxes,2922,Withdrawal for Taxes
+2023-01-13,Withdrawal,2826,Marketing,27321,Withdrawal for Marketing
+2023-01-16,Withdrawal,1992,Payroll,28088,Withdrawal for Payroll
+2023-01-16,Deposit,4031,Sales,30080,Deposit for Sales
+2023-01-17,Deposit,1593,Sponsorship,28914,Deposit for Sponsorship
+2023-01-18,Deposit,4735,Donations,15424,Deposit for Donations
+2023-01-18,Deposit,2719,Sales,28044,Deposit for Sales
+2023-01-19,Deposit,2777,Sales,10689,Deposit for Sales
+2023-01-20,Withdrawal,1816,Marketing,3184,Withdrawal for Marketing
+2023-01-20,Deposit,2278,Donations,27141,Deposit for Donations
+2023-01-22,Withdrawal,1814,Maintenance,27100,Withdrawal for Maintenance
+2023-01-24,Deposit,3304,Sponsorship,30147,Deposit for Sponsorship
+2023-01-25,Deposit,3729,Donations,23522,Deposit for Donations
+2023-01-26,Withdrawal,2456,Memberships,25588,Withdrawal for Memberships
+2023-01-27,Deposit,1738,Donations,26843,Deposit for Donations
+2023-02-02,Withdrawal,1336,Memberships,991,Withdrawal for Memberships
+2023-02-05,Deposit,3507,Sponsorship,11103,Deposit for Sponsorship
+2023-02-05,Withdrawal,1192,Taxes,23327,Withdrawal for Taxes
+2023-02-05,Deposit,2375,Donations,4955,Deposit for Donations
+2023-02-07,Deposit,4586,Sponsorship,7596,Deposit for Sponsorship
+2023-02-08,Deposit,3797,Sponsorship,23090,Deposit for Sponsorship
+2023-02-08,Deposit,2048,Donations,7003,Deposit for Donations
+2023-02-09,Withdrawal,1729,Office Supplies,9374,Withdrawal for Office Supplies
+2023-02-11,Withdrawal,530,Taxes,6473,Withdrawal for Taxes
+2023-02-13,Deposit,4158,Sales,19293,Deposit for Sales
+2023-02-13,Deposit,4653,Sales,5644,Deposit for Sales
+2023-02-14,Deposit,2413,Donations,24519,Deposit for Donations
+2023-02-14,Deposit,2457,Sales,3570,Deposit for Sales
+2023-02-14,Withdrawal,442,Maintenance,26262,Withdrawal for Maintenance
+2023-02-14,Withdrawal,985,Maintenance,2585,Withdrawal for Maintenance
+2023-02-15,Withdrawal,1957,Utilities,1113,Withdrawal for Utilities
+2023-02-17,Deposit,762,Sponsorship,5245,Deposit for Sponsorship
+2023-02-18,Withdrawal,2673,Taxes,2327,Withdrawal for Taxes
+2023-02-20,Withdrawal,2397,Memberships,22106,Withdrawal for Memberships
+2023-02-20,Withdrawal,1759,Loan Payments,24503,Withdrawal for Loan Payments
+2023-02-20,Withdrawal,2833,Loan Payments,0,Withdrawal for Loan Payments
+2023-02-20,Withdrawal,193,Insurance,9181,Withdrawal for Insurance
+2023-02-20,Withdrawal,2574,Rent,3070,Withdrawal for Rent
+2023-02-21,Withdrawal,2235,Marketing,3010,Withdrawal for Marketing
+2023-02-21,Withdrawal,1990,Maintenance,4483,Withdrawal for Maintenance
+2023-02-21,Deposit,752,Sales,2580,Deposit for Sales
+2023-02-25,Deposit,3614,Donations,26704,Deposit for Donations
+2023-02-26,Deposit,2929,Sponsorship,15135,Deposit for Sponsorship
+2023-02-26,Deposit,3025,Sales,12206,Deposit for Sales
+2023-02-28,Deposit,2076,Sponsorship,1828,Deposit for Sponsorship
+2023-03-01,Withdrawal,1939,Marketing,20433,Withdrawal for Marketing
+2023-03-02,Deposit,2048,Sales,6747,Deposit for Sales
+2023-03-02,Withdrawal,2481,Memberships,19546,Withdrawal for Memberships
+2023-03-02,Withdrawal,1970,Memberships,5032,Withdrawal for Memberships
+2023-03-02,Deposit,654,Donations,15730,Deposit for Donations
+2023-03-03,Withdrawal,2016,Marketing,11007,Withdrawal for Marketing
+2023-03-03,Withdrawal,2950,Travel,15076,Withdrawal for Travel
+2023-03-04,Deposit,1478,Sponsorship,23343,Deposit for Sponsorship
+2023-03-05,Deposit,4677,Donations,21865,Deposit for Donations
+2023-03-06,Withdrawal,813,Maintenance,5984,Withdrawal for Maintenance
+2023-03-07,Deposit,4552,Donations,20282,Deposit for Donations
+2023-03-07,Deposit,2464,Sales,7496,Deposit for Sales
+2023-03-09,Withdrawal,2055,Loan Payments,4435,Withdrawal for Loan Payments
+2023-03-09,Deposit,4630,Sponsorship,15637,Deposit for Sponsorship
+2023-03-10,Deposit,4988,Sponsorship,9988,Deposit for Sponsorship
+2023-03-12,Deposit,4611,Sales,11358,Deposit for Sales
+2023-03-13,Withdrawal,1316,Travel,22027,Withdrawal for Travel
+2023-03-13,Deposit,2690,Donations,14965,Deposit for Donations
+2023-03-14,Deposit,1346,Sponsorship,8703,Deposit for Sponsorship
+2023-03-15,Deposit,1551,Donations,17188,Deposit for Donations
+2023-03-15,Deposit,4181,Donations,8616,Deposit for Donations
+2023-03-16,Withdrawal,2213,Payroll,6490,Withdrawal for Payroll
+2023-03-17,Withdrawal,1285,Loan Payments,4699,Withdrawal for Loan Payments
+2023-03-17,Deposit,917,Donations,12275,Deposit for Donations
+2023-03-19,Withdrawal,1942,Marketing,13023,Withdrawal for Marketing
+2023-03-20,Withdrawal,139,Loan Payments,7357,Withdrawal for Loan Payments
+2023-03-22,Withdrawal,2407,Utilities,18026,Withdrawal for Utilities
+2023-03-22,Withdrawal,2986,Payroll,7002,Withdrawal for Payroll
+2023-03-23,Withdrawal,1819,Rent,6797,Withdrawal for Rent
+2023-03-28,Deposit,2826,Sponsorship,22372,Deposit for Sponsorship
+2023-04-01,Deposit,1838,Sales,8915,Deposit for Sales
+2023-04-01,Withdrawal,2053,Memberships,6862,Withdrawal for Memberships
+2023-04-02,Deposit,2872,Donations,18740,Deposit for Donations
+2023-04-03,Withdrawal,2887,Maintenance,13496,Withdrawal for Maintenance
+2023-04-04,Deposit,2077,Sales,7077,Deposit for Sales
+2023-04-05,Deposit,4769,Donations,29804,Deposit for Donations
+2023-04-05,Deposit,2524,Sponsorship,16020,Deposit for Sponsorship
+2023-04-05,Withdrawal,2272,Rent,16383,Withdrawal for Rent
+2023-04-05,Deposit,1514,Donations,16258,Deposit for Donations
+2023-04-05,Withdrawal,1859,Taxes,15868,Withdrawal for Taxes
+2023-04-06,Withdrawal,962,Travel,14997,Withdrawal for Travel
+2023-04-08,Deposit,4965,Sponsorship,25035,Deposit for Sponsorship
+2023-04-08,Withdrawal,2334,Maintenance,10506,Withdrawal for Maintenance
+2023-04-08,Deposit,4785,Sales,11647,Deposit for Sales
+2023-04-08,Deposit,1099,Sales,20070,Deposit for Sales
+2023-04-09,Deposit,1616,Sponsorship,16729,Deposit for Sponsorship
+2023-04-10,Deposit,2951,Sponsorship,18971,Deposit for Sponsorship
+2023-04-11,Deposit,2924,Donations,17727,Deposit for Donations
+2023-04-12,Deposit,1926,Sponsorship,18655,Deposit for Sponsorship
+2023-04-15,Withdrawal,160,Insurance,11487,Withdrawal for Insurance
+2023-04-15,Deposit,2993,Sponsorship,14480,Deposit for Sponsorship
+2023-04-16,Deposit,116,Sales,15113,Deposit for Sales
+2023-04-16,Withdrawal,1640,Utilities,12840,Withdrawal for Utilities
+2023-04-18,Deposit,4673,Sales,34477,Deposit for Sales
+2023-04-18,Deposit,3470,Sales,11621,Deposit for Sales
+2023-04-19,Withdrawal,1455,Marketing,14803,Withdrawal for Marketing
+2023-04-20,Withdrawal,2355,Utilities,8151,Withdrawal for Utilities
+2023-04-21,Deposit,3123,Sponsorship,14744,Deposit for Sponsorship
+2023-04-21,Withdrawal,2781,Taxes,15959,Withdrawal for Taxes
+2023-04-24,Withdrawal,1076,Travel,33401,Withdrawal for Travel
+2023-05-01,Deposit,2884,Sales,8778,Deposit for Sales
+2023-05-01,Deposit,3251,Donations,9141,Deposit for Donations
+2023-05-03,Withdrawal,1931,Marketing,5890,Withdrawal for Marketing
+2023-05-04,Withdrawal,957,Insurance,7821,Withdrawal for Insurance
+2023-05-04,Withdrawal,1526,Maintenance,0,Withdrawal for Maintenance
+2023-05-04,Deposit,1266,Sponsorship,929,Deposit for Sponsorship
+2023-05-06,Deposit,1429,Sponsorship,7256,Deposit for Sponsorship
+2023-05-06,Deposit,4909,Sales,3861,Deposit for Sales
+2023-05-07,Deposit,4269,Sponsorship,12460,Deposit for Sponsorship
+2023-05-09,Withdrawal,178,Professional Services,8191,Withdrawal for Professional Services
+2023-05-09,Withdrawal,548,Utilities,3056,Withdrawal for Utilities
+2023-05-10,Withdrawal,699,Travel,5827,Withdrawal for Travel
+2023-05-11,Deposit,2115,Sales,8369,Deposit for Sales
+2023-05-12,Deposit,1526,Donations,6526,Deposit for Donations
+2023-05-16,Withdrawal,1977,Memberships,0,Withdrawal for Memberships
+2023-05-18,Deposit,4573,Sales,8108,Deposit for Sales
+2023-05-19,Deposit,489,Sponsorship,1425,Deposit for Sponsorship
+2023-05-19,Withdrawal,2214,Marketing,5894,Withdrawal for Marketing
+2023-05-20,Deposit,3984,Sales,3535,Deposit for Sales
+2023-05-21,Withdrawal,1511,Inventory,1545,Withdrawal for Inventory
+2023-05-21,Withdrawal,1072,Professional Services,353,Withdrawal for Professional Services
+2023-05-22,Withdrawal,802,Utilities,0,Withdrawal for Utilities
+2023-05-23,Withdrawal,2117,Insurance,3604,Withdrawal for Insurance
+2023-05-23,Withdrawal,2925,Office Supplies,936,Withdrawal for Office Supplies
+2023-05-24,Withdrawal,2838,Professional Services,6254,Withdrawal for Professional Services
+2023-05-25,Withdrawal,2292,Loan Payments,6849,Withdrawal for Loan Payments
+2023-05-26,Deposit,2243,Sponsorship,9092,Deposit for Sponsorship
+2023-05-26,Withdrawal,1849,Travel,5721,Withdrawal for Travel
+2023-05-26,Deposit,314,Sponsorship,7570,Deposit for Sponsorship
+2023-05-28,Withdrawal,356,Rent,1189,Withdrawal for Rent
+2023-06-01,Withdrawal,2371,Rent,28054,Withdrawal for Rent
+2023-06-02,Withdrawal,992,Utilities,14403,Withdrawal for Utilities
+2023-06-03,Withdrawal,441,Loan Payments,23821,Withdrawal for Loan Payments
+2023-06-06,Withdrawal,2250,Office Supplies,5409,Withdrawal for Office Supplies
+2023-06-06,Deposit,3925,Donations,27746,Deposit for Donations
+2023-06-06,Deposit,213,Sponsorship,24262,Deposit for Sponsorship
+2023-06-07,Deposit,4873,Donations,21279,Deposit for Donations
+2023-06-09,Deposit,3137,Sponsorship,7659,Deposit for Sponsorship
+2023-06-09,Withdrawal,354,Utilities,4333,Withdrawal for Utilities
+2023-06-10,Deposit,189,Donations,4522,Deposit for Donations
+2023-06-11,Deposit,2766,Sponsorship,9165,Deposit for Sponsorship
+2023-06-11,Withdrawal,715,Taxes,24799,Withdrawal for Taxes
+2023-06-13,Deposit,3014,Sponsorship,30425,Deposit for Sponsorship
+2023-06-13,Deposit,2003,Sales,16406,Deposit for Sales
+2023-06-15,Deposit,1547,Sponsorship,29601,Deposit for Sponsorship
+2023-06-16,Deposit,4757,Donations,34358,Deposit for Donations
+2023-06-16,Withdrawal,2140,Office Supplies,22082,Withdrawal for Office Supplies
+2023-06-16,Withdrawal,2786,Office Supplies,4687,Withdrawal for Office Supplies
+2023-06-18,Deposit,2943,Sponsorship,24222,Deposit for Sponsorship
+2023-06-18,Deposit,990,Sponsorship,6399,Deposit for Sponsorship
+2023-06-19,Withdrawal,1903,Taxes,20179,Withdrawal for Taxes
+2023-06-19,Withdrawal,2445,Maintenance,25514,Withdrawal for Maintenance
+2023-06-20,Deposit,2473,Sponsorship,7473,Deposit for Sponsorship
+2023-06-21,Deposit,3870,Sales,24049,Deposit for Sales
+2023-06-22,Withdrawal,619,Office Supplies,27411,Withdrawal for Office Supplies
+2023-06-22,Deposit,694,Sponsorship,28440,Deposit for Sponsorship
+2023-06-24,Withdrawal,481,Travel,27959,Withdrawal for Travel
+2023-06-28,Deposit,3231,Donations,28030,Deposit for Donations
+2023-06-28,Deposit,4482,Sponsorship,15395,Deposit for Sponsorship
+2023-06-28,Deposit,1748,Sponsorship,10913,Deposit for Sponsorship
+2023-07-01,Withdrawal,236,Utilities,14973,Withdrawal for Utilities
+2023-07-01,Deposit,1953,Sponsorship,10501,Deposit for Sponsorship
+2023-07-01,Deposit,2870,Sponsorship,32306,Deposit for Sponsorship
+2023-07-02,Withdrawal,2180,Payroll,0,Withdrawal for Payroll
+2023-07-02,Withdrawal,1087,Office Supplies,13886,Withdrawal for Office Supplies
+2023-07-03,Deposit,4092,Donations,27359,Deposit for Donations
+2023-07-03,Deposit,3336,Sales,4293,Deposit for Sales
+2023-07-04,Withdrawal,2147,Professional Services,2099,Withdrawal for Professional Services
+2023-07-05,Withdrawal,2668,Rent,18691,Withdrawal for Rent
+2023-07-05,Withdrawal,2127,Rent,3024,Withdrawal for Rent
+2023-07-06,Deposit,3365,Sponsorship,15209,Deposit for Sponsorship
+2023-07-06,Deposit,2077,Sales,29436,Deposit for Sales
+2023-07-07,Withdrawal,2068,Inventory,18778,Withdrawal for Inventory
+2023-07-08,Deposit,2542,Sponsorship,4567,Deposit for Sponsorship
+2023-07-11,Deposit,2072,Sponsorship,11844,Deposit for Sponsorship
+2023-07-12,Deposit,1222,Sponsorship,4246,Deposit for Sponsorship
+2023-07-14,Deposit,4282,Donations,22115,Deposit for Donations
+2023-07-15,Deposit,4909,Sponsorship,21359,Deposit for Sponsorship
+2023-07-17,Withdrawal,729,Rent,9772,Withdrawal for Rent
+2023-07-17,Deposit,3981,Sponsorship,8548,Deposit for Sponsorship
+2023-07-17,Withdrawal,858,Memberships,17833,Withdrawal for Memberships
+2023-07-18,Deposit,1280,Sponsorship,1199,Deposit for Sponsorship
+2023-07-18,Deposit,151,Sponsorship,5151,Deposit for Sponsorship
+2023-07-20,Withdrawal,1269,Travel,20846,Withdrawal for Travel
+2023-07-20,Withdrawal,2462,Loan Payments,3186,Withdrawal for Loan Payments
+2023-07-23,Withdrawal,1161,Maintenance,2025,Withdrawal for Maintenance
+2023-07-24,Deposit,4489,Sales,23267,Deposit for Sales
+2023-07-25,Deposit,2564,Sales,16450,Deposit for Sales
+2023-07-26,Withdrawal,242,Insurance,957,Withdrawal for Insurance
+2023-07-28,Deposit,1355,Sponsorship,5648,Deposit for Sponsorship
+2023-08-01,Withdrawal,1439,Payroll,14783,Withdrawal for Payroll
+2023-08-01,Deposit,2438,Sponsorship,22232,Deposit for Sponsorship
+2023-08-04,Withdrawal,381,Loan Payments,16222,Withdrawal for Loan Payments
+2023-08-04,Deposit,130,Donations,9533,Deposit for Donations
+2023-08-06,Deposit,4048,Sales,17025,Deposit for Sales
+2023-08-06,Withdrawal,1268,Rent,7485,Withdrawal for Rent
+2023-08-06,Deposit,1677,Sponsorship,9162,Deposit for Sponsorship
+2023-08-06,Withdrawal,175,Maintenance,15889,Withdrawal for Maintenance
+2023-08-08,Withdrawal,2781,Utilities,16858,Withdrawal for Utilities
+2023-08-08,Withdrawal,2782,Memberships,9867,Withdrawal for Memberships
+2023-08-08,Withdrawal,436,Loan Payments,12852,Withdrawal for Loan Payments
+2023-08-09,Withdrawal,122,Office Supplies,14721,Withdrawal for Office Supplies
+2023-08-10,Withdrawal,2134,Marketing,12649,Withdrawal for Marketing
+2023-08-11,Withdrawal,2593,Inventory,19639,Withdrawal for Inventory
+2023-08-11,Withdrawal,1834,Memberships,16575,Withdrawal for Memberships
+2023-08-12,Deposit,4126,Donations,13288,Deposit for Donations
+2023-08-12,Deposit,4805,Sales,21663,Deposit for Sales
+2023-08-13,Withdrawal,1046,Maintenance,14843,Withdrawal for Maintenance
+2023-08-13,Deposit,803,Sponsorship,13655,Deposit for Sponsorship
+2023-08-14,Withdrawal,780,Office Supplies,8753,Withdrawal for Office Supplies
+2023-08-15,Deposit,3708,Sales,9496,Deposit for Sales
+2023-08-17,Withdrawal,266,Rent,9601,Withdrawal for Rent
+2023-08-19,Deposit,4088,Sales,20663,Deposit for Sales
+2023-08-22,Deposit,3688,Sales,18409,Deposit for Sales
+2023-08-22,Withdrawal,198,Loan Payments,9403,Withdrawal for Loan Payments
+2023-08-22,Deposit,2409,Donations,16064,Deposit for Donations
+2023-08-23,Deposit,788,Sales,5788,Deposit for Sales
+2023-08-24,Deposit,3481,Donations,12977,Deposit for Donations
+2023-08-25,Withdrawal,869,Rent,19794,Withdrawal for Rent
+2023-08-26,Withdrawal,422,Utilities,16603,Withdrawal for Utilities
+2023-09-02,Withdrawal,1595,Office Supplies,0,Withdrawal for Office Supplies
+2023-09-02,Deposit,4890,Donations,6541,Deposit for Donations
+2023-09-03,Withdrawal,2876,Loan Payments,23498,Withdrawal for Loan Payments
+2023-09-03,Deposit,3169,Donations,1164,Deposit for Donations
+2023-09-07,Withdrawal,1742,Professional Services,22399,Withdrawal for Professional Services
+2023-09-07,Withdrawal,649,Inventory,16271,Withdrawal for Inventory
+2023-09-08,Deposit,2845,Donations,20516,Deposit for Donations
+2023-09-10,Withdrawal,786,Taxes,26374,Withdrawal for Taxes
+2023-09-12,Withdrawal,2007,Travel,17671,Withdrawal for Travel
+2023-09-14,Withdrawal,2079,Insurance,0,Withdrawal for Insurance
+2023-09-15,Withdrawal,598,Maintenance,22681,Withdrawal for Maintenance
+2023-09-15,Deposit,1460,Sponsorship,24141,Deposit for Sponsorship
+2023-09-16,Deposit,3822,Sales,19678,Deposit for Sales
+2023-09-17,Deposit,1785,Sales,6785,Deposit for Sales
+2023-09-17,Deposit,2310,Donations,14803,Deposit for Donations
+2023-09-17,Deposit,4541,Sales,11082,Deposit for Sales
+2023-09-19,Deposit,2652,Donations,9437,Deposit for Donations
+2023-09-19,Deposit,4761,Donations,27160,Deposit for Donations
+2023-09-21,Withdrawal,2849,Payroll,6588,Withdrawal for Payroll
+2023-09-22,Deposit,1014,Sales,40,Deposit for Sales
+2023-09-23,Deposit,2874,Donations,2443,Deposit for Donations
+2023-09-24,Deposit,2763,Sponsorship,23279,Deposit for Sponsorship
+2023-09-24,Withdrawal,2577,Taxes,4011,Withdrawal for Taxes
+2023-09-25,Withdrawal,415,Taxes,15856,Withdrawal for Taxes
+2023-09-25,Withdrawal,792,Office Supplies,1651,Withdrawal for Office Supplies
+2023-09-26,Withdrawal,2045,Maintenance,0,Withdrawal for Maintenance
+2023-09-27,Deposit,3474,Sponsorship,18277,Deposit for Sponsorship
+2023-09-27,Deposit,1411,Sales,12493,Deposit for Sales
+2023-09-27,Withdrawal,2906,Professional Services,1105,Withdrawal for Professional Services
+2023-09-28,Withdrawal,1357,Memberships,16920,Withdrawal for Memberships
+2023-10-01,Withdrawal,1038,Memberships,3962,Withdrawal for Memberships
+2023-10-02,Deposit,2701,Sponsorship,11436,Deposit for Sponsorship
+2023-10-02,Withdrawal,2191,Rent,17156,Withdrawal for Rent
+2023-10-02,Withdrawal,2105,Maintenance,15978,Withdrawal for Maintenance
+2023-10-04,Withdrawal,1466,Loan Payments,9970,Withdrawal for Loan Payments
+2023-10-07,Deposit,3317,Donations,19295,Deposit for Donations
+2023-10-07,Deposit,3299,Donations,20584,Deposit for Donations
+2023-10-09,Deposit,2787,Sales,18083,Deposit for Sales
+2023-10-10,Withdrawal,2810,Travel,16523,Withdrawal for Travel
+2023-10-11,Withdrawal,1847,Office Supplies,15296,Withdrawal for Office Supplies
+2023-10-11,Withdrawal,2511,Rent,9622,Withdrawal for Rent
+2023-10-12,Withdrawal,2701,Office Supplies,13822,Withdrawal for Office Supplies
+2023-10-13,Deposit,223,Sales,10465,Deposit for Sales
+2023-10-13,Withdrawal,1428,Marketing,18711,Withdrawal for Marketing
+2023-10-14,Deposit,2177,Sales,19333,Deposit for Sales
+2023-10-14,Withdrawal,1730,Office Supplies,8735,Withdrawal for Office Supplies
+2023-10-16,Deposit,2661,Donations,17285,Deposit for Donations
+2023-10-17,Deposit,636,Sales,19347,Deposit for Sales
+2023-10-17,Withdrawal,2793,Payroll,17143,Withdrawal for Payroll
+2023-10-18,Withdrawal,648,Memberships,19936,Withdrawal for Memberships
+2023-10-18,Withdrawal,1238,Inventory,20139,Withdrawal for Inventory
+2023-10-18,Deposit,4846,Sponsorship,11549,Deposit for Sponsorship
+2023-10-19,Withdrawal,101,Memberships,9521,Withdrawal for Memberships
+2023-10-19,Withdrawal,1689,Rent,12133,Withdrawal for Rent
+2023-10-20,Deposit,2082,Donations,21377,Deposit for Donations
+2023-10-22,Deposit,4517,Sponsorship,6703,Deposit for Sponsorship
+2023-10-25,Deposit,721,Sponsorship,10242,Deposit for Sponsorship
+2023-10-26,Deposit,2883,Donations,14624,Deposit for Donations
+2023-10-27,Withdrawal,1776,Marketing,2186,Withdrawal for Marketing
+2023-10-28,Deposit,192,Sponsorship,11741,Deposit for Sponsorship
+2023-11-01,Withdrawal,2865,Taxes,4015,Withdrawal for Taxes
+2023-11-03,Withdrawal,344,Maintenance,3867,Withdrawal for Maintenance
+2023-11-03,Withdrawal,2031,Professional Services,0,Withdrawal for Professional Services
+2023-11-03,Withdrawal,2710,Taxes,1899,Withdrawal for Taxes
+2023-11-04,Deposit,525,Sales,4540,Deposit for Sales
+2023-11-04,Withdrawal,1178,Rent,6193,Withdrawal for Rent
+2023-11-06,Withdrawal,1019,Memberships,4609,Withdrawal for Memberships
+2023-11-07,Deposit,989,Donations,7623,Deposit for Donations
+2023-11-08,Deposit,278,Sponsorship,10379,Deposit for Sponsorship
+2023-11-09,Deposit,4201,Sales,1747,Deposit for Sales
+2023-11-12,Deposit,1368,Sponsorship,5908,Deposit for Sponsorship
+2023-11-13,Deposit,726,Sponsorship,6634,Deposit for Sponsorship
+2023-11-13,Withdrawal,122,Professional Services,7964,Withdrawal for Professional Services
+2023-11-14,Deposit,1360,Sponsorship,8642,Deposit for Sponsorship
+2023-11-14,Withdrawal,2342,Taxes,3851,Withdrawal for Taxes
+2023-11-14,Withdrawal,1204,Rent,10101,Withdrawal for Rent
+2023-11-14,Withdrawal,1288,Rent,4620,Withdrawal for Rent
+2023-11-15,Withdrawal,2354,Insurance,1513,Withdrawal for Insurance
+2023-11-15,Withdrawal,2025,Travel,5628,Withdrawal for Travel
+2023-11-15,Withdrawal,1271,Rent,7371,Withdrawal for Rent
+2023-11-16,Withdrawal,2885,Insurance,966,Withdrawal for Insurance
+2023-11-18,Withdrawal,1389,Memberships,0,Withdrawal for Memberships
+2023-11-18,Deposit,2312,Sponsorship,4211,Deposit for Sponsorship
+2023-11-19,Deposit,2468,Sponsorship,11305,Deposit for Sponsorship
+2023-11-22,Deposit,2662,Sponsorship,7282,Deposit for Sponsorship
+2023-11-23,Withdrawal,1084,Taxes,6880,Withdrawal for Taxes
+2023-11-24,Withdrawal,2293,Inventory,8086,Withdrawal for Inventory
+2023-11-25,Deposit,1214,Sponsorship,8837,Deposit for Sponsorship
+2023-11-27,Deposit,4395,Donations,5908,Deposit for Donations
+2023-11-27,Deposit,2653,Donations,7653,Deposit for Donations
+2023-12-02,Withdrawal,2743,Marketing,2257,Withdrawal for Marketing
+2023-12-02,Deposit,3066,Sales,6060,Deposit for Sales
+2023-12-02,Deposit,1167,Sponsorship,16938,Deposit for Sponsorship
+2023-12-02,Deposit,4004,Sales,15771,Deposit for Sales
+2023-12-02,Withdrawal,1395,Maintenance,13434,Withdrawal for Maintenance
+2023-12-05,Deposit,161,Donations,10721,Deposit for Donations
+2023-12-06,Deposit,4423,Donations,10483,Deposit for Donations
+2023-12-06,Deposit,4714,Sponsorship,12117,Deposit for Sponsorship
+2023-12-06,Withdrawal,2943,Maintenance,12270,Withdrawal for Maintenance
+2023-12-08,Withdrawal,1508,Utilities,15430,Withdrawal for Utilities
+2023-12-08,Deposit,3119,Donations,11767,Deposit for Donations
+2023-12-09,Deposit,737,Sales,2994,Deposit for Sales
+2023-12-11,Withdrawal,127,Travel,10748,Withdrawal for Travel
+2023-12-14,Withdrawal,2073,Memberships,8648,Withdrawal for Memberships
+2023-12-16,Withdrawal,2321,Travel,15104,Withdrawal for Travel
+2023-12-17,Withdrawal,185,Inventory,10298,Withdrawal for Inventory
+2023-12-17,Deposit,4717,Sales,19138,Deposit for Sales
+2023-12-18,Withdrawal,2501,Taxes,12603,Withdrawal for Taxes
+2023-12-20,Withdrawal,1526,Marketing,7403,Withdrawal for Marketing
+2023-12-20,Withdrawal,1713,Travel,17425,Withdrawal for Travel
+2023-12-21,Withdrawal,1369,Payroll,8929,Withdrawal for Payroll
+2023-12-21,Deposit,3911,Sales,14421,Deposit for Sales
+2023-12-22,Deposit,2765,Sponsorship,15213,Deposit for Sponsorship
+2023-12-22,Withdrawal,1710,Memberships,10560,Withdrawal for Memberships
+2023-12-23,Deposit,331,Donations,12448,Deposit for Donations
+2023-12-25,Withdrawal,483,Insurance,10875,Withdrawal for Insurance
+2023-12-26,Withdrawal,2758,Marketing,10676,Withdrawal for Marketing
+2023-12-27,Withdrawal,166,Maintenance,10510,Withdrawal for Maintenance
+2023-12-28,Withdrawal,601,Rent,14829,Withdrawal for Rent
+2023-12-28,Withdrawal,1245,Travel,11358,Withdrawal for Travel
